@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://thomasma.ca/TLCQ.ipa</string>
+                        <string>https://thomasma.ca/unc0ver_Release_8.0.2.ipa</string>
                     </dict>
                   <dict>
                 <key>kind</key>
@@ -24,13 +24,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.xlpmy.sifu</string>
+                    <string>ca.thomasma.uncv</string>
                     <key>bundle-version</key>
                     <string>2.8.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>天理尝蛆国际2.8</string>
+                    <string>Unc0ver</string>
                 </dict>
             </dict>
         </array>
