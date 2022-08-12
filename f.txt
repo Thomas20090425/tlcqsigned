@@ -1,0 +1,24 @@
+Failed to register.          number on list/username/devece udid
+注册失败。                    表单顺序/用户名/设备udid
+
+Reason: because you've submitted an iPhone udid, while my iphone list is full, it will fail to register.
+原因，由于你的上传的是iPhone udid，我的iphone udid已满，所以无法注册！
+
+If you are in this list, pleae resubmit a iPad udid OR ping me at Thomas-Ma-Tommy-Boy
+如果您在这个名单里的话请重新上传iPad udid或者@Thomas-Ma-Tommy-Boy
+
+158/RELJL./00008020-001(*********)2E
+160/XciLOVEtyX/00008020-001(*********)2E
+161/安梦/00008101-001(*********)1E
+162/Nightmare/00008101-001(*********)1E
+165/恩/00008110-001(*********)1E
+167/Cookie/00008020-000(*********)2E
+172/X!ong/00008110-000(*********)1E
+182/天边的海洋/33e(***************************)af00e
+185/ /00008110-000(*********)1E
+186/Double 飞/00008101-001(*********)3A
+187/Di dream虾滑/00008020-001(*********)2E
+188/秋./00008110-001(*********)1E
+189/卋罖/06b(***************************)220a8
+192/蕾咪/00008030-001(*********)2E
+195/何もない/00008020-001(*********)2E
