@@ -1,0 +1,7 @@
+#!name=原神·公益·天理指令二服
+
+[URL Rewrite]
+^https:\/\/([\da-z\-\.]+)\.hoyoverse\.com https://28.casks.me header
+
+[MITM]
+hostname = %APPEND% *.hoyoverse.com
