@@ -24,13 +24,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>science.xnu.undecimus</string>
+                    <string>ca.thomasma.certest</string>
                     <key>bundle-version</key>
-                    <string>8.0.2</string>
+                    <string>0.0.1</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>U0签名测试</string>
+                    <string>证书：China Telecommunications Corporation 签名测试，请点击确定进行安装</string>
                 </dict>
             </dict>
         </array>
