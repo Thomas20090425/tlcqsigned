@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://drive.casks.me/api/v3/file/source/1212/tl32signed.ipa?sign=FrPtrebymvdo1ZTJOwmfgBFKPMav4QtUuiQqnXewXf0%3D%3A0</string>
+                        <string>https://drive.casks.me/api/v3/file/source/1213/certtest.ipa?sign=ZBQ_YuatznQX58As3bj4tYRGuKPMu_EClP9u-ovlR64%3D%3A0</string>
                     </dict>
                   <dict>
                 <key>kind</key>
@@ -18,19 +18,19 @@
                 <key>needs-shine</key>
                 <true/>
                 <key>url</key>
-                <string>https://raw.githubusercontent.com/Thomas20090425/tlcqsigned/main/IMG_0361.jpg</string>
+                <string>https://raw.githubusercontent.com/Thomas20090425/tlcqsigned/main/6321_20173261329.jpg</string>
                 </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.xlpmy.tlcn</string>
+                    <string>science.xnu.undecimus</string>
                     <key>bundle-version</key>
-                    <string>3.2.0</string>
+                    <string>8.0.2</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>天理尝蛆国际3.2</string>
+                    <string>U0签名测试</string>
                 </dict>
             </dict>
         </array>
