@@ -26,11 +26,11 @@
                     <key>bundle-identifier</key>
                     <string>com.worthdoingbadly.Santander.Escaped</string>
                     <key>bundle-version</key>
-                    <string>SantanderEscaped</string>
+                    <string>1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>santander</string>
+                    <string>santanderescaped</string>
                 </dict>
             </dict>
         </array>
